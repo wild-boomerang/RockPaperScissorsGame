@@ -163,7 +163,7 @@ namespace RockPaperScissorsGame
                 Console.WriteLine(" *" + message);
             }
             Console.WriteLine("\nAn example of correct arguments input:\n" +
-                              "dotnet run rock paper scissors lizard Spock");
+                              "<filepath> rock paper scissors lizard Spock");
         }
     }
 }
